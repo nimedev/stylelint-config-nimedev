@@ -1,0 +1,33 @@
+{
+  "name": "stylelint-config-nimedev",
+  "version": "1.0.0",
+  "description": "stylelint shareable config",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nimedev/stylelint-config-nimedev"
+  },
+  "keywords": [
+    "stylelint",
+    "stylelint config",
+    "css",
+    "style guide",
+    "css linter",
+    "css style"
+  ],
+  "author": {
+    "name": "Nicolas Mejia",
+    "email": "nimedev@gmail.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nimedev/stylelint-config-nimedev/issues"
+  },
+  "homepage": "https://github.com/nimedev/stylelint-config-nimedev",
+  "peerDependencies": {
+    "stylelint": "^6.3.3"
+  }
+}
