@@ -47,13 +47,8 @@ module.exports = {
     "function-parentheses-newline-inside": "always-multi-line",
     "function-parentheses-space-inside": "never-single-line",
     "function-whitespace-after": "always",
-    "function-url-quotes": "double",
-    "indentation": [
-      2,
-      {
-        "hierarchicalSelectors": true
-      }
-    ],
+    "function-url-quotes": "always",
+    "indentation": 2,
     "max-empty-lines": 1,
     "max-line-length": [
       80,
@@ -72,7 +67,7 @@ module.exports = {
     "no-eol-whitespace": true,
     "number-leading-zero": "always",
     "number-no-trailing-zeros": true,
-    "number-zero-length-no-unit": true,
+    "length-zero-no-unit": true,
     "root-no-standard-properties": true,
     "rule-nested-empty-line-before": [
       "always-multi-line",

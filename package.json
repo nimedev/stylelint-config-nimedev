@@ -1,6 +1,6 @@
 {
   "name": "stylelint-config-nimedev",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "stylelint shareable config",
   "main": "index.js",
   "scripts": {
@@ -28,6 +28,6 @@
   },
   "homepage": "https://github.com/nimedev/stylelint-config-nimedev",
   "peerDependencies": {
-    "stylelint": "^6.3.3"
+    "stylelint": "^6.7.0"
   }
 }
